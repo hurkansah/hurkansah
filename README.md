@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💬 Ask me about **Thermal Camera, and UAV software & Hardware**
+- 💬 Ask me about **Thermal Camera, and UAV Software & Hardware**
 ---
 
 ## 📊 GitHub Stats
