@@ -15,9 +15,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hurkansah&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hurkansah&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurkansah&layout=compact" alt="langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hurkansah&layout=compact&hide_border=true" />
 </p>
